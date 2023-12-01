@@ -19,3 +19,7 @@
   **1.Clone the repository:**
 
        git clone https://github.com/SujithaKesavan/Banking-System.git
+
+  **2.Open the project in NetBeans IDE.**
+
+ **3.Compile and run the application to explore the functionalities.**    
