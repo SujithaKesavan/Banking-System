@@ -26,3 +26,7 @@
 
 # Contribution Guidelines:
 Contributions are welcome! If you have ideas for improvements or additional features, please open an issue or submit a pull request. Be sure to follow our contribution guidelines.
+
+# License:
+This project is licensed under the MIT License - see the LICENSE file for details.
+Feel free to explore, use, and contribute to make this bank account management system even better!
