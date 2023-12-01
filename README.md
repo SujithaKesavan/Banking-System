@@ -22,4 +22,7 @@
 
   **2.Open the project in NetBeans IDE.**
 
- **3.Compile and run the application to explore the functionalities.**    
+ **3.Compile and run the application to explore the functionalities.**   
+
+# Contribution Guidelines:
+Contributions are welcome! If you have ideas for improvements or additional features, please open an issue or submit a pull request. Be sure to follow our contribution guidelines.
