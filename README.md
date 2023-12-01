@@ -12,4 +12,10 @@
 
 **Transaction History:** View a log of transactions for each account.
 
-**User-Friendly Interface:** The graphical user interface (GUI) built with Java Swing ensures a user-friendly experience. 
+**User-Friendly Interface:** The graphical user interface (GUI) built with Java Swing ensures a user-friendly experience.
+
+# Getting Started:
+
+  **1.Clone the repository:**
+
+       git clone https://github.com/SujithaKesavan/Banking-System.git
