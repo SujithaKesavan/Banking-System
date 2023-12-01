@@ -4,4 +4,8 @@
 
 # Features:
 
- 
+**Account Creation and Management:** Easily create and manage bank accounts with customer details.
+**Deposit and Withdrawal Operations:** Perform transactions such as deposits and withdrawals to manage account balances.
+**Balance Inquiry:** Check the account balance at any time.
+**Transaction History:** View a log of transactions for each account.
+**User-Friendly Interface:** The graphical user interface (GUI) built with Java Swing ensures a user-friendly experience. 
